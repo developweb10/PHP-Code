@@ -1,0 +1,4 @@
+[04-May-2016 19:40:18 CST6CDT] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/mymeter9/public_html/staging/mymeter/releases/20160405000800/trunk/database/seeds/DatabaseSeeder.php on line 11
+[05-May-2016 07:53:12 CST6CDT] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/mymeter9/public_html/staging/mymeter/releases/20160405000800/trunk/database/seeds/DatabaseSeeder.php on line 11
+[15-May-2016 06:45:41 CST6CDT] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/mymeter9/public_html/my_meter_production/trunk/database/seeds/DatabaseSeeder.php on line 11
+[21-May-2016 02:35:33 CST6CDT] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/mymeter9/public_html/my_meter_production/trunk/database/seeds/DatabaseSeeder.php on line 11

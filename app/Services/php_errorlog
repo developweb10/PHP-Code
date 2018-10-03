@@ -1,0 +1,6 @@
+[04-May-2016 19:39:56 CST6CDT] PHP Fatal error:  Interface 'Illuminate\Contracts\Auth\Registrar' not found in /home/mymeter9/public_html/staging/mymeter/releases/20160405000800/trunk/app/Services/Registrar.php on line 7
+[04-May-2016 19:40:15 CST6CDT] PHP Fatal error:  Interface 'Illuminate\Contracts\Auth\Registrar' not found in /home/mymeter9/public_html/staging/mymeter/releases/20160405000800/trunk/app/Services/Registrar_old.php on line 7
+[06-May-2016 14:04:29 CST6CDT] PHP Fatal error:  Interface 'Illuminate\Contracts\Auth\Registrar' not found in /home/mymeter9/public_html/staging/mymeter/releases/20160405000800/trunk/app/Services/Registrar.php on line 7
+[06-May-2016 14:28:39 CST6CDT] PHP Fatal error:  Interface 'Illuminate\Contracts\Auth\Registrar' not found in /home/mymeter9/public_html/staging/mymeter/releases/20160405000800/trunk/app/Services/Registrar_old.php on line 7
+[15-May-2016 06:45:06 CST6CDT] PHP Fatal error:  Interface 'Illuminate\Contracts\Auth\Registrar' not found in /home/mymeter9/public_html/my_meter_production/trunk/app/Services/Registrar.php on line 7
+[15-May-2016 06:45:35 CST6CDT] PHP Fatal error:  Interface 'Illuminate\Contracts\Auth\Registrar' not found in /home/mymeter9/public_html/my_meter_production/trunk/app/Services/Registrar_old.php on line 7

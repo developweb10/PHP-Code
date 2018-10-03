@@ -1,0 +1,1 @@
+[04-May-2016 19:42:26 CST6CDT] PHP Fatal error:  Call to undefined function app() in /home/mymeter9/public_html/staging/mymeter/releases/20160405000800/trunk/resources/views/landowner/meter-sub.blade.php on line 53

@@ -1,0 +1,14 @@
+[04-May-2016 02:50:28 CST6CDT] PHP Fatal error:  Class 'App\PageContent' not found in /home/mymeter9/public_html/staging/mymeter/releases/20160405000800/trunk/resources/views/footer.blade.php on line 1
+[04-May-2016 02:52:34 CST6CDT] PHP Fatal error:  Class 'App\PageContent' not found in /home/mymeter9/public_html/staging/mymeter/releases/20160405000800/trunk/resources/views/welcome.blade.php on line 31
+[04-May-2016 02:52:39 CST6CDT] PHP Fatal error:  Class 'App\PageContent' not found in /home/mymeter9/public_html/staging/mymeter/releases/20160405000800/trunk/resources/views/welcome-app.blade.php on line 9
+[04-May-2016 02:54:31 CST6CDT] PHP Fatal error:  Class 'App\PageContent' not found in /home/mymeter9/public_html/staging/mymeter/releases/20160405000800/trunk/resources/views/rent-out-parking-space.blade.php on line 9
+[04-May-2016 19:40:21 CST6CDT] PHP Fatal error:  Class 'App\PageContent' not found in /home/mymeter9/public_html/staging/mymeter/releases/20160405000800/trunk/resources/views/welcome-app.blade_bkp.php on line 9
+[05-May-2016 04:59:57 CST6CDT] PHP Fatal error:  Class 'App\PageContent' not found in /home/mymeter9/public_html/staging/mymeter/releases/20160405000800/trunk/resources/views/welcome-app.blade.php on line 9
+[05-May-2016 05:02:14 CST6CDT] PHP Fatal error:  Class 'App\PageContent' not found in /home/mymeter9/public_html/staging/mymeter/releases/20160405000800/trunk/resources/views/welcome-app.blade_bkp.php on line 9
+[05-May-2016 13:56:34 CST6CDT] PHP Fatal error:  Class 'App\PageContent' not found in /home/mymeter9/public_html/staging/mymeter/releases/20160405000800/trunk/resources/views/footer.blade.php on line 1
+[15-May-2016 06:45:37 CST6CDT] PHP Fatal error:  Class 'App\PageContent' not found in /home/mymeter9/public_html/my_meter_production/trunk/resources/views/footer.blade.php on line 1
+[15-May-2016 06:45:49 CST6CDT] PHP Fatal error:  Class 'App\PageContent' not found in /home/mymeter9/public_html/my_meter_production/trunk/resources/views/welcome.blade.php on line 31
+[15-May-2016 06:46:13 CST6CDT] PHP Fatal error:  Call to undefined function config() in /home/mymeter9/public_html/my_meter_production/trunk/resources/views/navigation.blade.php on line 2
+[15-May-2016 06:46:16 CST6CDT] PHP Fatal error:  Class 'App\PageContent' not found in /home/mymeter9/public_html/my_meter_production/trunk/resources/views/welcome-app.blade.php on line 9
+[15-May-2016 06:46:28 CST6CDT] PHP Fatal error:  Class 'App\PageContent' not found in /home/mymeter9/public_html/my_meter_production/trunk/resources/views/welcome-app.blade_bkp.php on line 9
+[15-May-2016 06:46:32 CST6CDT] PHP Fatal error:  Class 'App\PageContent' not found in /home/mymeter9/public_html/my_meter_production/trunk/resources/views/rent-out-parking-space.blade.php on line 9

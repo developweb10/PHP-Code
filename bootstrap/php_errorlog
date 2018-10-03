@@ -1,0 +1,5 @@
+[04-May-2016 02:47:51 CST6CDT] PHP Fatal error:  Class 'Illuminate\Foundation\Application' not found in /home/mymeter9/public_html/staging/mymeter/releases/20160405000800/trunk/bootstrap/app.php on line 14
+[04-May-2016 19:44:02 CST6CDT] PHP Fatal error:  Class 'Illuminate\Foundation\Application' not found in /home/mymeter9/public_html/staging/mymeter/releases/20160405000800/trunk/bootstrap/app.php on line 14
+[06-May-2016 12:42:39 CST6CDT] PHP Fatal error:  Class 'Illuminate\Foundation\Application' not found in /home/mymeter9/public_html/staging/mymeter/releases/20160405000800/trunk/bootstrap/app.php on line 14
+[15-May-2016 06:40:59 CST6CDT] PHP Fatal error:  Class 'Illuminate\Foundation\Application' not found in /home/mymeter9/public_html/my_meter_production/trunk/bootstrap/app.php on line 14
+[21-May-2016 07:23:48 CST6CDT] PHP Fatal error:  Class 'Illuminate\Foundation\Application' not found in /home/mymeter9/public_html/my_meter_production/trunk/bootstrap/app.php on line 14

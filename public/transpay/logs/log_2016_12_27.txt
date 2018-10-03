@@ -1,0 +1,4 @@
+{
+  "ErrorCode": "InvalidAuthenticationHeader",
+  "Message": "Invalid authentication information was passed in Authetication Header!"
+}

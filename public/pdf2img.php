@@ -1,0 +1,1 @@
+<?php exec( "convert -density 600 business_cards/business_card_2.pdf foo-%02d.jpg" ); ?> 

@@ -1,0 +1,168 @@
+.sliderbodyclass{
+  font-size: 62.5%;
+  line-height: 1;
+  color: #515151;
+  padding: 25px 0;
+ }
+
+
+
+.sliderbodyclass input, .sliderbodyclass textarea { 
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  outline: none; 
+}
+
+.sliderbodyclass blockquote, .sliderbodyclass q { quotes: none; }
+.sliderbodyclass blockquote:before, .sliderbodyclass blockquote:after, .sliderbodyclass q:before, .sliderbodyclass q:after { content: ''; content: none; }
+.sliderbodyclass strong, .sliderbodyclass b { font-weight: bold; }
+.sliderbodyclass em, .sliderbodyclass i { font-style: italic; }
+
+.sliderbodyclass table { border-collapse: collapse; border-spacing: 0; }
+.sliderbodyclass img { border: 0; max-width: 100%; }
+
+.sliderbodyclass h1 {
+  font-family: 'Exo 2', sans-serif;
+  font-size: 3.55em;
+  line-height: 1.75em;
+  margin-bottom: 15px;
+  text-align: center;
+  font-weight: bold;
+  text-shadow: 1px 1px 0 rgba(255,255,255,0.8);
+}
+
+
+/** page structure **/
+.sliderbodyclass #w {
+  display: block;
+  max-width: 1080px;
+  min-width: 300px;
+  margin: 0 auto;
+  padding: 2px 3px;
+}
+
+
+/** posts slider widget **/
+.sliderbodyclass .crsl-items {
+  display: block;
+  padding: 0px;
+}
+
+.sliderbodyclass .crsl-item {
+  background: #fff;
+  padding: 8px;
+  /*-webkit-box-shadow: 0 0px 12px #87D236;
+  -moz-box-shadow: 0 0px 12px #87D236;*/
+  box-shadow: none;
+}
+
+.sliderbodyclass .crsl-item .thumbnail {
+  display: block;
+  position: relative;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+.sliderbodyclass .crsl-item .thumbnail img { 
+  display: block; /* fix 1px image space http://stackoverflow.com/q/5804256/477958 */
+  -webkit-transition: all 0.3s linear;
+  -moz-transition: all 0.3s linear;
+  transition: all 0.3s linear;
+}
+.sliderbodyclass .crsl-item .thumbnail:hover img {
+  opacity: 0.8;
+}
+
+.sliderbodyclass .crsl-item h3 {
+  font-size: 1.95em;
+  line-height: 1.25em;
+  margin-bottom: 12px;
+}
+.sliderbodyclass .crsl-item h3 a {
+  text-decoration: none;
+  color: #333;
+}
+.sliderbodyclass .crsl-item h3 a:hover {
+  text-decoration: underline;
+}
+
+.sliderbodyclass .crsl-item .postdate {
+  display: block;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding: 6px;
+  color: #fff;
+  text-shadow: 1px 1px 0 rgba(0,0,0,0.4);
+  font-size: 1.2em;
+  font-weight: bold;
+  background: #4e90da;
+}
+
+.sliderbodyclass .crsl-item p {
+  font-size: 1.2em;
+  line-height: 1.55em;
+  margin-bottom: 5px;
+}
+
+.sliderbodyclass .crsl-item p.readmore a {
+  display: block;
+  float: right;
+  color: #4e90da;
+  padding: 3px 5px;
+  text-decoration: none;
+  font-weight: bold;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+}
+.sliderbodyclass .crsl-item p.readmore a:hover {
+  background: #4b6caa;
+  color: #fff;
+}
+
+
+/** posts slider nav **/
+.sliderbodyclass .slidernav {
+  display: block;
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+.sliderbodyclass .slidernav a {
+  display: inline-block;
+  padding: 5px 8px;
+  margin-right: 8px;
+  font-size: 1.4em;
+  background: #87D236;
+  color: #666;
+  text-decoration: none;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  -webkit-box-shadow: 2px 2px 0px rgba(0,0,0,0.2);
+  -moz-box-shadow: 2px 2px 0px rgba(0,0,0,0.2);
+  box-shadow: 2px 2px 0px rgba(0,0,0,0.2);
+}
+.sliderbodyclass .slidernav a:active {
+  -webkit-box-shadow: 1px 1px 0 rgba(0,0,0,0.2);
+  -moz-box-shadow: 1px 1px 0 rgba(0,0,0,0.2);
+  box-shadow: 1px 1px 0 rgba(0,0,0,0.2);
+}
+
+
+/** media queries **/
+@media screen and (max-width: 660px) {
+.sliderbodyclass   h1 { font-size: 2.4em; line-height: 1.2em; }
+  
+.sliderbodyclass   .crsl-item h3 { font-size: 1.65em; }
+}
+
+/** clearfix **/
+.sliderbodyclass .clearfix:after { content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0; }
+.sliderbodyclass .clearfix { display: inline-block; }
+ 
+.sliderbodyclass html[xmlns] .clearfix { display: block; }

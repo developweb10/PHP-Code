@@ -1,0 +1,761 @@
+{
+  "ReceivedData": {
+    "RequiresPreAml": false,
+    "RequiresPostAml": false,
+    "Sender": {
+      "Name": "MATT CIBINEL",
+      "Address": "TEST ADDRESS",
+      "ZipCode": "02138",
+      "PhoneMobile": "123",
+      "IsIndividual": true,
+      "CountryIsoCode": "CA",
+      "StateId": "AB",
+      "CityId": 61852
+    },
+    "Receiver": {
+      "FirstName": "GURPREET",
+      "LastName": "SINGH123",
+      "CompleteAddress": "#41 DOWN TOWN",
+      "MobilePhone": "1234561",
+      "IsIndividual": false,
+      "CountryIsoCode": "US",
+      "StateId": "AK",
+      "CityId": 99459
+    },
+    "TransactionInfo": {
+      "PaymentModeId": "C",
+      "ReceiveCurrencyIsoCode": "USD",
+      "BankId": "U1008",
+      "BankBranchId": "12345",
+      "Account": "123456",
+      "PayerId": "US03",
+      "PayingBranchId": "US030001",
+      "SourceCurrencyIsoCode": "CAD",
+      "ProductId": 0,
+      "SentAmount": 146.00
+    },
+    "Compliance": {
+      "IsPreAml": false,
+      "Accumulation": 0.0,
+      "SourceOfFundsRequired": false,
+      "IsSsnRequired": false,
+      "IsSecondIdRequired": false
+    }
+  },
+  "BusinessErrors": [
+    {
+      "ErrorCode": "TransactionSourceCurrencyInvalid",
+      "Message": "This currency is not available for current branch",
+      "FieldName": "SourceCurrencyIsoCode"
+    }
+  ],
+  "DataValidationErrors": []
+}{
+  "ReceivedData": {
+    "RequiresPreAml": false,
+    "RequiresPostAml": false,
+    "Sender": {
+      "Name": "MATT CIBINEL",
+      "Address": "TEST ADDRESS",
+      "ZipCode": "02138",
+      "PhoneMobile": "123",
+      "IsIndividual": true,
+      "CountryIsoCode": "CA",
+      "StateId": "AB",
+      "CityId": 61852
+    },
+    "Receiver": {
+      "FirstName": "GURPREET",
+      "LastName": "SINGH123",
+      "CompleteAddress": "#41 DOWN TOWN",
+      "MobilePhone": "1234561",
+      "IsIndividual": false,
+      "CountryIsoCode": "CA",
+      "StateId": "AB",
+      "CityId": 15416
+    },
+    "TransactionInfo": {
+      "PaymentModeId": "C",
+      "ReceiveCurrencyIsoCode": "CAD",
+      "BankId": "C0004",
+      "BankBranchId": "12345",
+      "Account": "123456",
+      "PayerId": "XA01",
+      "PayingBranchId": "XA01000001",
+      "SourceCurrencyIsoCode": "CAD",
+      "ProductId": 0,
+      "SentAmount": 146.00
+    },
+    "Compliance": {
+      "IsPreAml": false,
+      "Accumulation": 0.0,
+      "SourceOfFundsRequired": false,
+      "IsSsnRequired": false,
+      "IsSecondIdRequired": false
+    }
+  },
+  "BusinessErrors": [
+    {
+      "ErrorCode": "TransactionSourceCurrencyInvalid",
+      "Message": "This currency is not available for current branch",
+      "FieldName": "SourceCurrencyIsoCode"
+    }
+  ],
+  "DataValidationErrors": []
+}{
+  "ReceivedData": {
+    "RequiresPreAml": false,
+    "RequiresPostAml": false,
+    "Sender": {
+      "Name": "MATT CIBINEL",
+      "Address": "TEST ADDRESS",
+      "ZipCode": "02138",
+      "PhoneMobile": "123",
+      "IsIndividual": true,
+      "CountryIsoCode": "CA",
+      "StateId": "AB",
+      "CityId": 61852
+    },
+    "Receiver": {
+      "FirstName": "GURPREET",
+      "LastName": "SINGH123",
+      "CompleteAddress": "#41 DOWN TOWN",
+      "MobilePhone": "1234561",
+      "IsIndividual": false,
+      "CountryIsoCode": "CA",
+      "StateId": "AB",
+      "CityId": 15416
+    },
+    "TransactionInfo": {
+      "PaymentModeId": "C",
+      "ReceiveCurrencyIsoCode": "CAD",
+      "BankId": "C0001",
+      "BankBranchId": "85294",
+      "Account": "123456",
+      "PayerId": "XA01",
+      "PayingBranchId": "XA01000001",
+      "SourceCurrencyIsoCode": "CAD",
+      "ProductId": 0,
+      "SentAmount": 146.00
+    },
+    "Compliance": {
+      "IsPreAml": false,
+      "Accumulation": 0.0,
+      "SourceOfFundsRequired": false,
+      "IsSsnRequired": false,
+      "IsSecondIdRequired": false
+    }
+  },
+  "BusinessErrors": [
+    {
+      "ErrorCode": "TransactionSourceCurrencyInvalid",
+      "Message": "This currency is not available for current branch",
+      "FieldName": "SourceCurrencyIsoCode"
+    }
+  ],
+  "DataValidationErrors": []
+}{
+  "ReceivedData": {
+    "RequiresPreAml": false,
+    "RequiresPostAml": false,
+    "Sender": {
+      "Name": "MATT CIBINEL",
+      "Address": "TEST ADDRESS",
+      "ZipCode": "02138",
+      "PhoneMobile": "123",
+      "IsIndividual": true,
+      "CountryIsoCode": "CA",
+      "StateId": "AB",
+      "CityId": 61852
+    },
+    "Receiver": {
+      "FirstName": "ERIK",
+      "LastName": "HERNANDEZ",
+      "CompleteAddress": "TEST",
+      "MobilePhone": "123",
+      "IsIndividual": false,
+      "CountryIsoCode": "CA",
+      "StateId": "ON",
+      "CityId": 75335
+    },
+    "TransactionInfo": {
+      "PaymentModeId": "C",
+      "ReceiveCurrencyIsoCode": "CAD",
+      "BankId": "C0001",
+      "BankBranchId": "85294",
+      "Account": "123456",
+      "PayerId": "XA01",
+      "PayingBranchId": "XA01000001",
+      "SourceCurrencyIsoCode": "CAD",
+      "ProductId": 0,
+      "SentAmount": 146.00
+    },
+    "Compliance": {
+      "IsPreAml": false,
+      "Accumulation": 0.0,
+      "SourceOfFundsRequired": false,
+      "IsSsnRequired": false,
+      "IsSecondIdRequired": false
+    }
+  },
+  "BusinessErrors": [
+    {
+      "ErrorCode": "TransactionSourceCurrencyInvalid",
+      "Message": "This currency is not available for current branch",
+      "FieldName": "SourceCurrencyIsoCode"
+    }
+  ],
+  "DataValidationErrors": []
+}{
+  "ReceivedData": {
+    "RequiresPreAml": false,
+    "RequiresPostAml": false,
+    "Sender": {
+      "Name": "HERVERT VIVEROS",
+      "Address": "TEST ADDRESS",
+      "ZipCode": "02138",
+      "PhoneMobile": "123",
+      "IsIndividual": true,
+      "CountryIsoCode": "CA",
+      "StateId": "AB",
+      "CityId": 61852
+    },
+    "Receiver": {
+      "FirstName": "ERIK",
+      "LastName": "HERNANDEZ",
+      "CompleteAddress": "TEST",
+      "MobilePhone": "123",
+      "IsIndividual": false,
+      "CountryIsoCode": "CA",
+      "StateId": "ON",
+      "CityId": 75335
+    },
+    "TransactionInfo": {
+      "PaymentModeId": "C",
+      "ReceiveCurrencyIsoCode": "CAD",
+      "BankId": "C0001",
+      "BankBranchId": "85294",
+      "Account": "123456",
+      "PayerId": "XA01",
+      "PayingBranchId": "XA01000001",
+      "SourceCurrencyIsoCode": "CAD",
+      "ProductId": 0,
+      "SentAmount": 146.00
+    },
+    "Compliance": {
+      "IsPreAml": false,
+      "Accumulation": 0.0,
+      "SourceOfFundsRequired": false,
+      "IsSsnRequired": false,
+      "IsSecondIdRequired": false
+    }
+  },
+  "BusinessErrors": [
+    {
+      "ErrorCode": "TransactionSourceCurrencyInvalid",
+      "Message": "This currency is not available for current branch",
+      "FieldName": "SourceCurrencyIsoCode"
+    }
+  ],
+  "DataValidationErrors": []
+}{
+  "ReceivedData": {
+    "RequiresPreAml": false,
+    "RequiresPostAml": false,
+    "Sender": {
+      "Name": "HERVERT VIVEROS",
+      "Address": "TEST ADDRESS",
+      "ZipCode": "02138",
+      "PhoneMobile": "123",
+      "IsIndividual": true,
+      "CountryIsoCode": "CA",
+      "StateId": "AB",
+      "CityId": 61852
+    },
+    "Receiver": {
+      "FirstName": "ERIK",
+      "LastName": "HERNANDEZ",
+      "CompleteAddress": "TEST",
+      "MobilePhone": "123",
+      "IsIndividual": false,
+      "CountryIsoCode": "CA",
+      "StateId": "ON",
+      "CityId": 75335
+    },
+    "TransactionInfo": {
+      "PaymentModeId": "C",
+      "ReceiveCurrencyIsoCode": "CAD",
+      "BankId": "C0001",
+      "BankBranchId": "85294",
+      "Account": "123456",
+      "PayerId": "XA01",
+      "PayingBranchId": "XA01000001",
+      "SourceCurrencyIsoCode": "CAD",
+      "ProductId": 0,
+      "SentAmount": 146.0
+    },
+    "Compliance": {
+      "IsPreAml": false,
+      "Accumulation": 0.0,
+      "SourceOfFundsRequired": false,
+      "IsSsnRequired": false,
+      "IsSecondIdRequired": false
+    }
+  },
+  "BusinessErrors": [
+    {
+      "ErrorCode": "TransactionSourceCurrencyInvalid",
+      "Message": "This currency is not available for current branch",
+      "FieldName": "SourceCurrencyIsoCode"
+    }
+  ],
+  "DataValidationErrors": []
+}{
+  "ReceivedData": {
+    "RequiresPreAml": false,
+    "RequiresPostAml": false,
+    "Sender": {
+      "Name": "HERVERT VIVEROS",
+      "Address": "TEST ADDRESS",
+      "ZipCode": "02138",
+      "PhoneMobile": "123",
+      "IsIndividual": true,
+      "CountryIsoCode": "CA",
+      "StateId": "AB",
+      "CityId": 61852
+    },
+    "Receiver": {
+      "FirstName": "ERIK",
+      "LastName": "HERNANDEZ",
+      "CompleteAddress": "TEST",
+      "MobilePhone": "123",
+      "IsIndividual": false,
+      "CountryIsoCode": "CA",
+      "StateId": "ON",
+      "CityId": 75335
+    },
+    "TransactionInfo": {
+      "PaymentModeId": "C",
+      "ReceiveCurrencyIsoCode": "CAD",
+      "BankId": "C0001",
+      "BankBranchId": "85294",
+      "Account": "123456",
+      "PayerId": "XA01",
+      "PayingBranchId": "XA01000001",
+      "SourceCurrencyIsoCode": "CAD",
+      "ProductId": 0,
+      "SentAmount": 20.0
+    },
+    "Compliance": {
+      "IsPreAml": false,
+      "Accumulation": 0.0,
+      "SourceOfFundsRequired": false,
+      "IsSsnRequired": false,
+      "IsSecondIdRequired": false
+    }
+  },
+  "BusinessErrors": [
+    {
+      "ErrorCode": "TransactionSourceCurrencyInvalid",
+      "Message": "This currency is not available for current branch",
+      "FieldName": "SourceCurrencyIsoCode"
+    }
+  ],
+  "DataValidationErrors": []
+}{
+  "StatusName": "WEB",
+  "StatusId": "W",
+  "TfPin": "33TF879109413",
+  "TransactionDate": "2016-07-28T02:59:25.117-04:00",
+  "IsValidated": false,
+  "CanBeCancelled": true,
+  "RequiresPreAml": false,
+  "RequiresPostAml": false,
+  "Sender": {
+    "Name": "HERVERT VIVEROS",
+    "Address": "TEST ADDRESS",
+    "ZipCode": "02138",
+    "PhoneMobile": "123",
+    "IsIndividual": true,
+    "CountryIsoCode": "CA",
+    "CountryName": "CANADA",
+    "StateId": "AB",
+    "CityName": "CALGARY",
+    "CityId": 61852,
+    "TypeOfId": "NN",
+    "IdNumber": "",
+    "SenderId": 1.0,
+    "SenderOnBehalfOf": {
+      "SenderAlternoId": 0,
+      "SenderId": 0.0
+    }
+  },
+  "Receiver": {
+    "ReceiverId": "8",
+    "FullName": "ERIK HERNANDEZ ",
+    "FullNameOtherLanguage": " ",
+    "FirstName": "ERIK",
+    "SecondName": "",
+    "LastName": "HERNANDEZ",
+    "SecondLastName": "",
+    "CompleteAddress": "TEST",
+    "MobilePhone": "123",
+    "IsIndividual": false,
+    "CountryIsoCode": "CA",
+    "CountryName": "CANADA",
+    "StateName": "ONTARIO",
+    "StateId": "ON",
+    "CityName": "ACTON",
+    "CityId": 75335
+  },
+  "TransactionInfo": {
+    "PaymentModeId": "C",
+    "PaymentModeName": "BANK DEPOSIT",
+    "ReceiveCurrencyIsoCode": "CAD",
+    "BankName": "TD CANADA TRUST",
+    "BankId": "C0001",
+    "BankBranchId": "85294",
+    "Account": "123456",
+    "PayerName": "TRANSFAST REMITTANCE",
+    "PayerId": "XA01",
+    "PayingBranchId": "XA01000001",
+    "PayingBranchName": "TRANSFAST BANK DEPOSIT",
+    "SourceCurrencyName": "CAD",
+    "SourceCurrencyIsoCode": "CAD",
+    "Rate": 1.0000,
+    "TotalSentAmount": 32.00000000000000000000,
+    "ServiceFee": 12.0000,
+    "HandlingAmount": 0.0000,
+    "FeeRate": 0.0000,
+    "FormOfPaymentId": "CA",
+    "FormOfPaymentName": "CASH",
+    "CashAmount": 32.0000,
+    "Payout": 20.0000,
+    "CreditAmount": 0.0000,
+    "ProductId": 0,
+    "SentAmount": 20.00000000000000000000,
+    "ReceiveAmount": 20.0000,
+    "Adjustment": 0.0000,
+    "Tax": 0.0000,
+    "SettlementRate": 1.0,
+    "CashierName": "MMETERWEBUSR",
+    "ProductName": "STANDARD",
+    "PayerBranchAdress": "BANK DEPOSIT TO OVER 60 BANKS (BANK OF CANADA, BANK OF MONTREAL, AND MORE)",
+    "PayerBranchPhone1": "888-578-7267",
+    "PayerBranchPhone2": "",
+    "InvoiceStatusTimeStamps": [
+      {
+        "ReceiverId": "8",
+        "Cashier": "WB120842TP",
+        "ChangeStatusDate": "2016-07-28T03:59:25.123-04:00",
+        "FlagId": "W",
+        "FlagName": "WEB"
+      }
+    ],
+    "BankRoutingNumber": "85294"
+  },
+  "Compliance": {
+    "IsPreAml": false,
+    "Accumulation": 0.0,
+    "SourceOfFundsRequired": false,
+    "IsSsnRequired": false,
+    "IsSecondIdRequired": false
+  }
+}{
+  "StatusName": "WEB",
+  "StatusId": "W",
+  "TfPin": "33TF879109565",
+  "TransactionDate": "2016-07-28T03:01:06.690-04:00",
+  "IsValidated": false,
+  "CanBeCancelled": true,
+  "RequiresPreAml": false,
+  "RequiresPostAml": false,
+  "Sender": {
+    "Name": "HERVERT VIVEROS",
+    "Address": "TEST ADDRESS",
+    "ZipCode": "02138",
+    "PhoneMobile": "123",
+    "IsIndividual": true,
+    "CountryIsoCode": "CA",
+    "CountryName": "CANADA",
+    "StateId": "AB",
+    "CityName": "CALGARY",
+    "CityId": 61852,
+    "TypeOfId": "NN",
+    "IdNumber": "",
+    "SenderId": 1.0,
+    "SenderOnBehalfOf": {
+      "SenderAlternoId": 0,
+      "SenderId": 0.0
+    }
+  },
+  "Receiver": {
+    "ReceiverId": "9",
+    "FullName": "ERIK HERNANDEZ ",
+    "FullNameOtherLanguage": " ",
+    "FirstName": "ERIK",
+    "SecondName": "",
+    "LastName": "HERNANDEZ",
+    "SecondLastName": "",
+    "CompleteAddress": "TEST",
+    "MobilePhone": "123",
+    "IsIndividual": false,
+    "CountryIsoCode": "CA",
+    "CountryName": "CANADA",
+    "StateName": "ONTARIO",
+    "StateId": "ON",
+    "CityName": "ACTON",
+    "CityId": 75335
+  },
+  "TransactionInfo": {
+    "PaymentModeId": "C",
+    "PaymentModeName": "BANK DEPOSIT",
+    "ReceiveCurrencyIsoCode": "CAD",
+    "BankName": "TD CANADA TRUST",
+    "BankId": "C0001",
+    "BankBranchId": "85294",
+    "Account": "123456",
+    "PayerName": "TRANSFAST REMITTANCE",
+    "PayerId": "XA01",
+    "PayingBranchId": "XA01000001",
+    "PayingBranchName": "TRANSFAST BANK DEPOSIT",
+    "SourceCurrencyName": "CAD",
+    "SourceCurrencyIsoCode": "CAD",
+    "Rate": 1.0000,
+    "TotalSentAmount": 158.00000000000000000000,
+    "ServiceFee": 12.0000,
+    "HandlingAmount": 0.0000,
+    "FeeRate": 0.0000,
+    "FormOfPaymentId": "CA",
+    "FormOfPaymentName": "CASH",
+    "CashAmount": 158.0000,
+    "Payout": 146.0000,
+    "CreditAmount": 0.0000,
+    "ProductId": 0,
+    "SentAmount": 146.00000000000000000000,
+    "ReceiveAmount": 146.0000,
+    "Adjustment": 0.0000,
+    "Tax": 0.0000,
+    "SettlementRate": 1.0,
+    "CashierName": "MMETERWEBUSR",
+    "ProductName": "STANDARD",
+    "PayerBranchAdress": "BANK DEPOSIT TO OVER 60 BANKS (BANK OF CANADA, BANK OF MONTREAL, AND MORE)",
+    "PayerBranchPhone1": "888-578-7267",
+    "PayerBranchPhone2": "",
+    "InvoiceStatusTimeStamps": [
+      {
+        "ReceiverId": "9",
+        "Cashier": "WB120842TP",
+        "ChangeStatusDate": "2016-07-28T04:01:06.693-04:00",
+        "FlagId": "W",
+        "FlagName": "WEB"
+      }
+    ],
+    "BankRoutingNumber": "85294"
+  },
+  "Compliance": {
+    "IsPreAml": false,
+    "Accumulation": 0.0,
+    "SourceOfFundsRequired": false,
+    "IsSsnRequired": false,
+    "IsSecondIdRequired": false
+  }
+}{
+  "StatusName": "WEB",
+  "StatusId": "W",
+  "TfPin": "33TF879120029",
+  "TransactionDate": "2016-07-28T03:13:49.703-04:00",
+  "IsValidated": false,
+  "CanBeCancelled": true,
+  "RequiresPreAml": false,
+  "RequiresPostAml": false,
+  "Sender": {
+    "Name": "HERVERT VIVEROS",
+    "Address": "TEST ADDRESS",
+    "ZipCode": "02138",
+    "PhoneMobile": "123",
+    "IsIndividual": true,
+    "CountryIsoCode": "CA",
+    "CountryName": "CANADA",
+    "StateId": "AB",
+    "CityName": "CALGARY",
+    "CityId": 61852,
+    "TypeOfId": "NN",
+    "IdNumber": "",
+    "SenderId": 1.0,
+    "SenderOnBehalfOf": {
+      "SenderAlternoId": 0,
+      "SenderId": 0.0
+    }
+  },
+  "Receiver": {
+    "ReceiverId": "10",
+    "FullName": "GURPREET SINGH ",
+    "FullNameOtherLanguage": " ",
+    "FirstName": "GURPREET",
+    "SecondName": "",
+    "LastName": "SINGH",
+    "SecondLastName": "",
+    "CompleteAddress": "#19 MALL ROAD",
+    "MobilePhone": "9876543210",
+    "IsIndividual": false,
+    "CountryIsoCode": "CA",
+    "CountryName": "CANADA",
+    "StateName": "ONTARIO",
+    "StateId": "ON",
+    "CityName": "ACTON",
+    "CityId": 75335
+  },
+  "TransactionInfo": {
+    "PaymentModeId": "C",
+    "PaymentModeName": "BANK DEPOSIT",
+    "ReceiveCurrencyIsoCode": "CAD",
+    "BankName": "TD CANADA TRUST",
+    "BankId": "C0001",
+    "BankBranchId": "85294",
+    "Account": "123456",
+    "PayerName": "TRANSFAST REMITTANCE",
+    "PayerId": "XA01",
+    "PayingBranchId": "XA01000001",
+    "PayingBranchName": "TRANSFAST BANK DEPOSIT",
+    "SourceCurrencyName": "CAD",
+    "SourceCurrencyIsoCode": "CAD",
+    "Rate": 1.0000,
+    "TotalSentAmount": 158.00000000000000000000,
+    "ServiceFee": 12.0000,
+    "HandlingAmount": 0.0000,
+    "FeeRate": 0.0000,
+    "FormOfPaymentId": "CA",
+    "FormOfPaymentName": "CASH",
+    "CashAmount": 158.0000,
+    "Payout": 146.0000,
+    "CreditAmount": 0.0000,
+    "ProductId": 0,
+    "SentAmount": 146.00000000000000000000,
+    "ReceiveAmount": 146.0000,
+    "Adjustment": 0.0000,
+    "Tax": 0.0000,
+    "SettlementRate": 1.0,
+    "CashierName": "MMETERWEBUSR",
+    "ProductName": "STANDARD",
+    "PayerBranchAdress": "BANK DEPOSIT TO OVER 60 BANKS (BANK OF CANADA, BANK OF MONTREAL, AND MORE)",
+    "PayerBranchPhone1": "888-578-7267",
+    "PayerBranchPhone2": "",
+    "InvoiceStatusTimeStamps": [
+      {
+        "ReceiverId": "10",
+        "Cashier": "WB120842TP",
+        "ChangeStatusDate": "2016-07-28T04:13:49.713-04:00",
+        "FlagId": "W",
+        "FlagName": "WEB"
+      }
+    ],
+    "BankRoutingNumber": "85294"
+  },
+  "Compliance": {
+    "IsPreAml": false,
+    "Accumulation": 0.0,
+    "SourceOfFundsRequired": false,
+    "IsSsnRequired": false,
+    "IsSecondIdRequired": false
+  }
+}{
+  "StatusName": "WEB",
+  "StatusId": "W",
+  "TfPin": "33TF879131174",
+  "TransactionDate": "2016-07-28T04:29:09.500-04:00",
+  "IsValidated": false,
+  "CanBeCancelled": true,
+  "RequiresPreAml": false,
+  "RequiresPostAml": false,
+  "Sender": {
+    "Name": "HERVERT VIVEROS",
+    "Address": "TEST ADDRESS",
+    "ZipCode": "02138",
+    "PhoneMobile": "123",
+    "IsIndividual": true,
+    "CountryIsoCode": "CA",
+    "CountryName": "CANADA",
+    "StateId": "AB",
+    "CityName": "CALGARY",
+    "CityId": 61852,
+    "TypeOfId": "NN",
+    "IdNumber": "",
+    "SenderId": 1.0,
+    "SenderOnBehalfOf": {
+      "SenderAlternoId": 0,
+      "SenderId": 0.0
+    }
+  },
+  "Receiver": {
+    "ReceiverId": "11",
+    "FullName": "GURPREET SINGH ",
+    "FullNameOtherLanguage": " ",
+    "FirstName": "GURPREET",
+    "SecondName": "",
+    "LastName": "SINGH",
+    "SecondLastName": "",
+    "CompleteAddress": "#19 MALL ROAD",
+    "MobilePhone": "9876543210",
+    "IsIndividual": false,
+    "CountryIsoCode": "CA",
+    "CountryName": "CANADA",
+    "StateName": "ONTARIO",
+    "StateId": "ON",
+    "CityName": "ACTON",
+    "CityId": 75335
+  },
+  "TransactionInfo": {
+    "PaymentModeId": "C",
+    "PaymentModeName": "BANK DEPOSIT",
+    "ReceiveCurrencyIsoCode": "CAD",
+    "BankName": "TD CANADA TRUST",
+    "BankId": "C0001",
+    "BankBranchId": "85294",
+    "Account": "123456",
+    "PayerName": "TRANSFAST REMITTANCE",
+    "PayerId": "XA01",
+    "PayingBranchId": "XA01000001",
+    "PayingBranchName": "TRANSFAST BANK DEPOSIT",
+    "SourceCurrencyName": "CAD",
+    "SourceCurrencyIsoCode": "CAD",
+    "Rate": 1.0000,
+    "TotalSentAmount": 112.00000000000000000000,
+    "ServiceFee": 12.0000,
+    "HandlingAmount": 0.0000,
+    "FeeRate": 0.0000,
+    "FormOfPaymentId": "CA",
+    "FormOfPaymentName": "CASH",
+    "CashAmount": 112.0000,
+    "Payout": 100.0000,
+    "CreditAmount": 0.0000,
+    "ProductId": 0,
+    "SentAmount": 100.00000000000000000000,
+    "ReceiveAmount": 100.0000,
+    "Adjustment": 0.0000,
+    "Tax": 0.0000,
+    "SettlementRate": 1.0,
+    "CashierName": "MMETERWEBUSR",
+    "ProductName": "STANDARD",
+    "PayerBranchAdress": "BANK DEPOSIT TO OVER 60 BANKS (BANK OF CANADA, BANK OF MONTREAL, AND MORE)",
+    "PayerBranchPhone1": "888-578-7267",
+    "PayerBranchPhone2": "",
+    "InvoiceStatusTimeStamps": [
+      {
+        "ReceiverId": "11",
+        "Cashier": "WB120842TP",
+        "ChangeStatusDate": "2016-07-28T05:29:09.500-04:00",
+        "FlagId": "W",
+        "FlagName": "WEB"
+      }
+    ],
+    "BankRoutingNumber": "85294"
+  },
+  "Compliance": {
+    "IsPreAml": false,
+    "Accumulation": 0.0,
+    "SourceOfFundsRequired": false,
+    "IsSsnRequired": false,
+    "IsSecondIdRequired": false
+  }
+}

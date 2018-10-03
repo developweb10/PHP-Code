@@ -1,0 +1,2 @@
+[04-May-2016 19:43:08 CST6CDT] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/mymeter9/public_html/staging/mymeter/releases/20160405000800/trunk/app/Http/Controllers/AdminController.php on line 14
+[05-May-2016 04:59:14 CST6CDT] PHP Fatal error:  Class 'Illuminate\Routing\Controller' not found in /home/mymeter9/public_html/staging/mymeter/releases/20160405000800/trunk/app/Http/Controllers/Controller.php on line 7

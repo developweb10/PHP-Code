@@ -1,0 +1,2 @@
+[05-May-2016 10:54:36 CST6CDT] PHP Fatal error:  Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/mymeter9/public_html/staging/mymeter/releases/20160405000800/trunk/app/Http/Requests/Request.php on line 5
+[06-May-2016 14:26:49 CST6CDT] PHP Fatal error:  Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/mymeter9/public_html/staging/mymeter/releases/20160405000800/trunk/app/Http/Requests/Request.php on line 5

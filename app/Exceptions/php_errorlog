@@ -1,0 +1,4 @@
+[04-May-2016 19:41:16 CST6CDT] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/mymeter9/public_html/staging/mymeter/releases/20160405000800/trunk/app/Exceptions/Handler.php on line 6
+[04-May-2016 19:46:19 CST6CDT] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/mymeter9/public_html/staging/mymeter/releases/20160405000800/trunk/app/Exceptions/Handler.php on line 6
+[06-May-2016 14:02:59 CST6CDT] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/mymeter9/public_html/staging/mymeter/releases/20160405000800/trunk/app/Exceptions/Handler.php on line 6
+[15-May-2016 06:45:12 CST6CDT] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/mymeter9/public_html/my_meter_production/trunk/app/Exceptions/Handler.php on line 6

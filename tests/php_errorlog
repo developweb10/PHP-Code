@@ -1,0 +1,11 @@
+[04-May-2016 02:48:00 CST6CDT] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/mymeter9/public_html/staging/mymeter/releases/20160405000800/trunk/tests/TestCase.php on line 3
+[04-May-2016 02:52:18 CST6CDT] PHP Fatal error:  Class 'TestCase' not found in /home/mymeter9/public_html/staging/mymeter/releases/20160405000800/trunk/tests/ExampleTest.php on line 3
+[04-May-2016 19:43:20 CST6CDT] PHP Fatal error:  Class 'TestCase' not found in /home/mymeter9/public_html/staging/mymeter/releases/20160405000800/trunk/tests/ExampleTest.php on line 3
+[05-May-2016 04:55:34 CST6CDT] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/mymeter9/public_html/staging/mymeter/releases/20160405000800/trunk/tests/TestCase.php on line 3
+[06-May-2016 12:48:59 CST6CDT] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/mymeter9/public_html/staging/mymeter/releases/20160405000800/trunk/tests/TestCase.php on line 3
+[06-May-2016 13:12:09 CST6CDT] PHP Fatal error:  Class 'TestCase' not found in /home/mymeter9/public_html/staging/mymeter/releases/20160405000800/trunk/tests/ExampleTest.php on line 3
+[08-May-2016 02:16:53 CST6CDT] PHP Fatal error:  Class 'TestCase' not found in /home/mymeter9/public_html/staging/mymeter/releases/20160405000800/trunk/tests/ExampleTest.php on line 3
+[15-May-2016 06:41:20 CST6CDT] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/mymeter9/public_html/my_meter_production/trunk/tests/TestCase.php on line 3
+[15-May-2016 06:41:50 CST6CDT] PHP Fatal error:  Class 'TestCase' not found in /home/mymeter9/public_html/my_meter_production/trunk/tests/ExampleTest.php on line 3
+[19-May-2016 06:47:57 CST6CDT] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/mymeter9/public_html/my_meter_production/trunk/tests/TestCase.php on line 3
+[19-May-2016 06:50:28 CST6CDT] PHP Fatal error:  Class 'TestCase' not found in /home/mymeter9/public_html/my_meter_production/trunk/tests/ExampleTest.php on line 3

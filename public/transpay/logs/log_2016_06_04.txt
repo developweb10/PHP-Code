@@ -1,0 +1,81 @@
+{
+  "ReceivedData": {
+    "RequiresPreAml": false,
+    "RequiresPostAml": false,
+    "Sender": {
+      "IsIndividual": false
+    },
+    "Receiver": {
+      "IsIndividual": false,
+      "CityId": 0
+    },
+    "TransactionInfo": {
+      "ProductId": 0
+    },
+    "Compliance": {
+      "IsPreAml": false,
+      "Accumulation": 0.0,
+      "SourceOfFundsRequired": false,
+      "IsSsnRequired": false,
+      "IsSecondIdRequired": false
+    }
+  },
+  "BusinessErrors": [],
+  "DataValidationErrors": [
+    {
+      "ErrorCode": "Required",
+      "Message": "The field is required",
+      "FieldName": "TransactionInfo.ReceiveCurrencyIsoCode"
+    },
+    {
+      "ErrorCode": "Required",
+      "Message": "The field is required",
+      "FieldName": "TransactionInfo.PayingBranchId"
+    },
+    {
+      "ErrorCode": "Required",
+      "Message": "The field is required",
+      "FieldName": "TransactionInfo.SourceCurrencyIsoCode"
+    }
+  ]
+}{
+  "ReceivedData": {
+    "RequiresPreAml": false,
+    "RequiresPostAml": false,
+    "Sender": {
+      "IsIndividual": false
+    },
+    "Receiver": {
+      "IsIndividual": false,
+      "CityId": 0
+    },
+    "TransactionInfo": {
+      "ProductId": 0
+    },
+    "Compliance": {
+      "IsPreAml": false,
+      "Accumulation": 0.0,
+      "SourceOfFundsRequired": false,
+      "IsSsnRequired": false,
+      "IsSecondIdRequired": false
+    }
+  },
+  "BusinessErrors": [],
+  "DataValidationErrors": [
+    {
+      "ErrorCode": "Required",
+      "Message": "The field is required",
+      "FieldName": "TransactionInfo.ReceiveCurrencyIsoCode"
+    },
+    {
+      "ErrorCode": "Required",
+      "Message": "The field is required",
+      "FieldName": "TransactionInfo.PayingBranchId"
+    },
+    {
+      "ErrorCode": "Required",
+      "Message": "The field is required",
+      "FieldName": "TransactionInfo.SourceCurrencyIsoCode"
+    }
+  ]
+}
